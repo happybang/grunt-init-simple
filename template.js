@@ -85,7 +85,7 @@ exports.template = function(grunt, init, done) {
         'grunt-contrib-concat': '~0.3.0',
         'grunt-contrib-uglify': '~0.2.0',
         'grunt-contrib-watch': '~0.4.0',
-        'grunt-contrib-clean': '~0.4.0',,
+        'grunt-contrib-clean': '~0.4.0',
         "grunt-contrib-yuidoc": "*"
       },
     });
